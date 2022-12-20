@@ -9,9 +9,11 @@ As part of this project, I reviewed Sports product dataset and used PySpark (Col
 
 After carrying out the analysis the following results were obtained:
 
-!(Paid Vine reviews)[]
+![Paid Vine reviews](https://github.com/Manishthapa2022/Amazon_Vine_Analysis/blob/main/Images/Paid_Vine_reviews.png)
 
-!(Unpaid Vine reviews)[]
+
+![Unpaid Vine reviews](https://github.com/Manishthapa2022/Amazon_Vine_Analysis/blob/main/Images/Unpaid_Vine_reviews.png)
+
 
 * There were 334 no of Vine reviews and 61614 number of non-Vine reviews. 
 
