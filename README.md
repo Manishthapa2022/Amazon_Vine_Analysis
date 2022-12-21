@@ -22,7 +22,7 @@ After carrying out the analysis the following results were obtained:
 * Approx 41.62 % of vine reviews were 5 stars and Approx 53.01 % of non-Vine reviews were 5stars.
 
 ## Summary
-After filtering and analyzing the data, it can be seen that the five star percentage of the vine review (paid) is approx 41.62% whereas the five star percentage for non vine reviews (unpaid) is approx 53.01%. This proves that there is no positive bias for the vine reviews. Moreover, the number of vine reviews (334) is considerably less than the non-Vine reviews (61614).
+After filtering and analyzing the data, it can be seen that the five star percentage of the vine review (paid) is approx 41.62% whereas the five star percentage for non vine reviews (unpaid) is approx 53.01%. Inspite of the payment incentive, there is a lower percentage of the 5 star reviews in the paid data as compared to the unpaid data. This proves that there is no positive bias for the vine reviews. Moreover, the number of vine reviews (334) is considerably less than the non-Vine reviews (61614).
 
 I would recommed to carry out the following to further consider whether there is bias:
 * We can carry out a qualitive test: A visual assessment of the distribution of data for both the unpaid and paid reviews to check te mean and the see if there is any skew. A left skew would show that ther are extreme negative values in the data set and a right skew will show extreme postive values in the data set. 
